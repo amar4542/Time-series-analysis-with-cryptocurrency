@@ -14,14 +14,6 @@ This project demonstrates the process of **data preprocessing, cleaning, transfo
 
 ---
 
-## 📊 Dashboard Preview
-<details>
-  <summary>Click to view Dashboard Snapshot</summary>
-  <img src="https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/Snapshot%20of%20Time%20Series%20Analysis.png" alt="Cryptocurrency Dashboard" width="800"/>
-</details>  
-
----
-
 ## ⚙️ Features & Insights
 - Built a **Power BI template** for reusable time series dashboards.  
 - Visualized **coin-wise and time-period performance**.  
