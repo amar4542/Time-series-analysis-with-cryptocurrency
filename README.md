@@ -11,6 +11,9 @@ This project demonstrates the process of **data preprocessing, cleaning, transfo
 - [📊 Cryptocurrency Dataset](https://github.com/amar4542/Zidio-time-series-analysis)  
 
 ---
+## 🔗 View Project
+[👉 Click here to view the Power BI Project](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/zidio%20second%20project.pbit)
+
 
 ## 📊 Dashboard Preview
 <details>
