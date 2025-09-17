@@ -5,4 +5,4 @@ Creating interactive dashboards to visualise time series analysis with cryptocur
 - <a href= "https://github.com/amar4542/Zidio-time-series-analysis">Datasets</a>
 
 ## 📷 Dashboard Preview
-[![Preview Dashboard](https://img.shields.io/badge/Preview-Dashboard-blue?style=for-the-badge&logo=powerbi)](https://github.com/amar4542/Business-Sales/blob/main/Snapshot%20of%20Business%20Sales.png)
+[![Preview Dashboard](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/Snapshot%20of%20Time%20Series%20Analysis.png)
