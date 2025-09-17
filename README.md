@@ -7,13 +7,12 @@ This project demonstrates the process of **data preprocessing, cleaning, transfo
 
 ---
 
-## 📂 Datasets Used
-- [📊 Cryptocurrency Dataset](https://github.com/amar4542/Zidio-time-series-analysis)  
-
-
 ## 🔗 View Project
-[👉 Click here to view the Power BI Project](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/zidio%20second%20project.pbit)
+[![View Project](https://img.shields.io/badge/View%20Project-PowerBI-orange?style=for-the-badge&logo=power-bi)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/zidio%20second%20project.pbit)  
+[![Download Template](https://img.shields.io/badge/Download-.pbit-blue?style=for-the-badge&logo=files)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/zidio%20second%20project.pbit)  
+[![View Snapshot](https://img.shields.io/badge/View-Snapshot-green?style=for-the-badge&logo=image)](https://github.com/amar4542/Time-series-analysis-with-cryptocurrency/blob/main/Snapshot%20of%20Time%20Series%20Analysis.png)  
 
+---
 
 ## 📊 Dashboard Preview
 <details>
@@ -33,17 +32,17 @@ This project demonstrates the process of **data preprocessing, cleaning, transfo
 ---
 
 ## 📂 Files in Repository
-- 📌 `cryptocurrency_timeseries.pbit` → Power BI Template  
-- 📌 `crypto_data.xlsx` → Dataset  
+- 📌 `zidio second project.pbit` → Power BI Template  
 - 📌 `Snapshot of Time Series Analysis.png` → Dashboard Snapshot  
 
 ---
 
 ## 🛠️ Tools & Technologies
 - **Power BI** → Dashboard creation & interactivity  
-- **Excel** → Dataset storage & preprocessing  
+- **Excel** → Data preprocessing (before import)  
 - **Data Cleaning & Transformation** → Power Query  
 
 ---
 
 ✨ This project highlights my ability to combine **data analytics, time series forecasting, and visualization** to extract meaningful patterns from financial data.  
+ 
